@@ -1,5 +1,5 @@
-package kuehlschrank;
-
+import kuehlschrank.Kuehlschrank;
+import kuehlschrank.Sensor;
 import org.junit.Before;
 import org.junit.Test;
 
