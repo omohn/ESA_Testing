@@ -1,5 +1,4 @@
 # ESA Testing Oliver Mohn
-ESA Testing Aufgaben 3 und 4
 
 ## Aufgabe 1 und 2: Projekt testen
 https://github.com/omohn/ESA_Testing_Project
